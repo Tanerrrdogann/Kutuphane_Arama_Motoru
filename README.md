@@ -146,8 +146,6 @@ Merge Sort, kararlı (stable) yapısı nedeniyle tercih edilmiştir.
 içinde geçen kelimelere göre alaka düzeyini hesaplayan basitleştirilmiş bir  
 TF-IDF algoritması ve Trie yapısı hibrit olarak çalışmaktadır.
 
-4.  
-
 
 ---
 
