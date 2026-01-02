@@ -119,15 +119,21 @@ Qt bileşenleri ile tasarlanmıştır.
 
 **Dinamik Liste:** Kitaplar "Kart (Card)" yapısında listelenir.  
 
+![Kütüphane Yönetim Sistemi Ana Arayüzü](images/arayuz.png)
+
 Şekil 1: Kütüphane Yönetim Sistemi Ana Arayüzü  
 
 **Filtreleme Paneli:** Kullanıcıların Yıl, Puan, Yazar ve Kategoriye göre  
 detaylı filtreleme yapabildiği bir "Overlay" panel tasarlanmıştır.
 
+![Filtreleme Modülü](images/filtre.png)
+
 Şekil 2: Filtreleme Modülü  
 
 **Görselleştirme:** BFS sonuçları metin yerine, kitaplar arası bağlantıyı  
 gösteren ok işaretleri (⬇) ile görselleştirilmiştir.
+
+![BFS Sonuç Ekranı](images/bfs.png)
 
 Şekil 3: BFS Sonuç Ekranı  
 
