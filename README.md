@@ -190,11 +190,3 @@ Professional.
 4. Qt Documentation. (2025). "Qt Framework and C++ Integration".
 
 5. Chat GPT ve Gemini’den yardım alındı.
-
-
----
-
-## 6. EKLER
-
-Proje Kaynak Kodları (GitHub): [Buraya GitHub Linkini Yapıştır]  
-Uygulama Tanıtım Videosu: [Varsa Link]
