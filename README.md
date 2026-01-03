@@ -1,7 +1,6 @@
 # MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ  
-# BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ  
-# VERİ YAPILARI DERSİ  
-# FİNAL PROJESİ
+# BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ 
+# VERİ YAPILARI DERSİ FİNAL PROJESİ
 
 
 İSTANBUL MEDENİYET ÜNİVERSİTESİ  
@@ -119,21 +118,21 @@ Qt bileşenleri ile tasarlanmıştır.
 
 **Dinamik Liste:** Kitaplar "Kart (Card)" yapısında listelenir.  
 
-![Kütüphane Yönetim Sistemi Ana Arayüzü](images/arayuz.png)
+<img width="2624" height="1888" alt="image" src="https://github.com/user-attachments/assets/4dfb63b9-ff02-463f-a008-ef4ea6bdb3e1" />
 
 Şekil 1: Kütüphane Yönetim Sistemi Ana Arayüzü  
 
 **Filtreleme Paneli:** Kullanıcıların Yıl, Puan, Yazar ve Kategoriye göre  
 detaylı filtreleme yapabildiği bir "Overlay" panel tasarlanmıştır.
 
-![Filtreleme Modülü](images/filtre.png)
+<img width="2624" height="1888" alt="image" src="https://github.com/user-attachments/assets/53864cdd-0d9c-443d-ac49-b456b3d7e4e0" />
 
 Şekil 2: Filtreleme Modülü  
 
 **Görselleştirme:** BFS sonuçları metin yerine, kitaplar arası bağlantıyı  
 gösteren ok işaretleri (⬇) ile görselleştirilmiştir.
 
-![BFS Sonuç Ekranı](images/bfs.png)
+<img width="2624" height="1888" alt="image" src="https://github.com/user-attachments/assets/ddca904b-43c0-48f2-9abb-bd6c2f70e77f" />
 
 Şekil 3: BFS Sonuç Ekranı  
 
